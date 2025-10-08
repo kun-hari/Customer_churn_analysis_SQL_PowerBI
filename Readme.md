@@ -109,3 +109,7 @@ The dataset contains 7,043 customer records, including demographic, account and 
 - Insights guided targeted marketing campaigns projected to lower churn by 15% within priority customer segments.
 
 - Delivered a professional business report that shaped data-driven retention strategies and operational improvements.
+
+  ## *Dashboard*
+
+![Customer_Churn_Analysis_Dashboard](Customer_churn_analysis_dashboard.png)
